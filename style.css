@@ -228,19 +228,19 @@ a.social:hover {
 }
 
 a.email {
-    background-image: url(img/icon/email.svg);
+    background-image: url(https://raw.githubusercontent.com/chianglynn/techdegree-project-1/dc3a2f3ebf120a96a0c719a7d07dd7ba6a016ca6/img/icon/email.svg);
 }
 
 a.linkedin {
-    background-image: url(img/icon/linkedin.svg);
+    background-image: url(https://raw.githubusercontent.com/chianglynn/techdegree-project-1/dc3a2f3ebf120a96a0c719a7d07dd7ba6a016ca6/img/icon/linkedin.svg);
 }
 
 a.github {
-    background-image: url(img/icon/github.svg);
+    background-image: url(https://raw.githubusercontent.com/chianglynn/techdegree-project-1/dc3a2f3ebf120a96a0c719a7d07dd7ba6a016ca6/img/icon/github.svg);
 }
 
 a.treehouse {
-    background-image: url(img/icon/treehouse.svg);
+    background-image: url(https://raw.githubusercontent.com/chianglynn/techdegree-project-1/dc3a2f3ebf120a96a0c719a7d07dd7ba6a016ca6/img/icon/treehouse.svg);
 }
 
 /* Styles for larger screens */
